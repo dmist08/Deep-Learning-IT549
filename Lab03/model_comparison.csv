@@ -1,0 +1,5 @@
+Metric,Basic CNN,MobileNetV2
+Accuracy,0.7344,0.9756
+Precision (macro),0.7418,0.9758
+Recall (macro),0.7344,0.9756
+F1-Score (macro),0.7258,0.9756
