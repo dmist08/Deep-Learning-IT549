@@ -51,7 +51,7 @@ MobileNetV2 outperforms the Basic CNN by ~24% across all metrics.
 
 ```
 Lab03/
-├── IT549_Lab3_AQI_Classification.ipynb
+├── 202511039_lab03.ipynb
 ├── model_comparison.csv
 └── README.md
 ```
