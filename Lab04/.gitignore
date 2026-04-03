@@ -1,0 +1,7 @@
+data/
+yolo_dataset/
+yolo_runs/
+runs/
+*.cache
+__pycache__/
+.ipynb_checkpoints/

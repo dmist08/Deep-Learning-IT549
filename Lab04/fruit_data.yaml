@@ -1,0 +1,9 @@
+names:
+- apple
+- banana
+- orange
+nc: 3
+path: d:\HDD\DAU\Sem 2\LAB\Deep-Learning-IT549\Lab04\yolo_dataset
+test: images/test
+train: images/train
+val: images/test
